@@ -23,5 +23,7 @@
   提取网页正文、分词：http://localhost:8080/shame/extract<br>
   网站爬虫：http://localhost:8080/shame/spider<br>
   爬虫后进行分词处理中间接口：http://localhost:8080/shame/bridge<br>
-  
+访问地址：<br>
+------
+http://localhost:8080/index.html
   
