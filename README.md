@@ -8,6 +8,7 @@
       word分词<br>
       jsoup爬虫<br>
       python相关：anaconda、wordcloud、matplotlib
+      前端：layui、bootstrap
 功能：<br>
 ----
   1、爬虫某招聘网站获取薪资等信息<br>
